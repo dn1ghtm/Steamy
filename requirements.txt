@@ -1,2 +1,2 @@
-vdf==3.4
-colorama==0.4.6 
+colorama>=0.4.6
+vdf>=3.4 

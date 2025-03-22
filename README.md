@@ -1,4 +1,4 @@
-# Steam Terminal Launcher
+# Steamy
 
 A simple terminal-based launcher for Steam games that allows you to quickly launch your installed Steam games from the command line.
 
@@ -28,7 +28,7 @@ A simple terminal-based launcher for Steam games that allows you to quickly laun
 
 1. Run the script:
    ```
-   python steam_launcher.py
+   python steamy.py
    ```
 
 2. On first run, you'll be prompted to enter your Steam installation path
@@ -40,4 +40,4 @@ A simple terminal-based launcher for Steam games that allows you to quickly laun
 
 ## How it Works
 
-The launcher reads Steam's library folders and app manifest files to find all installed games. It then creates a simple terminal interface where you can select and launch games. The Steam installation path is saved in a `steam_config.json` file for future use. 
+The launcher reads Steam's library folders and app manifest files to find all installed games. It then creates a simple terminal interface where you can select and launch games. The Steam installation path is saved in a `steamy_config.json` file for future use. 
