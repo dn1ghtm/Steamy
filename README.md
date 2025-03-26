@@ -33,13 +33,6 @@ A lightweight, terminal-based launcher for Steam games that allows you to quickl
 - `R` - Refresh Game Library
 - `Q` - Quit Steamy
 
-## Requirements
-
-- Windows 10 or later
-- Steam client installed
-- At least 100MB free disk space
-- 4GB RAM
-
 ## Development
 
 Steamy is open source! Feel free to contribute to the project.
@@ -55,9 +48,6 @@ pip install -r requirements.txt
 python steamy.py
 ```
 
-## Safety & Security
-
-Steamy is completely safe to use. It's open source and only interacts with your Steam installation to launch games. For more information, check out the "It's Not a Virus" tab in the application.
 
 ## Contributing
 
