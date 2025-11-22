@@ -61,7 +61,6 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 If you encounter any issues or have questions:
 - Check our [GitHub Issues](https://github.com/dn1ghtm/Steamy/issues)
-- Join our [Discord community](https://discord.gg/steamy)
 - Submit a bug report with detailed information
 
 ## Credits
